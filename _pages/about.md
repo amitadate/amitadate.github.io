@@ -12,4 +12,4 @@ I am a graduate student at Northwestern University pursuing Masters Degree in Co
 
 Before joining the masters program in Fall 18, I completed my undergraduate degree in Computer Science from [Vellore Institute of Technology](https://www.vit.ac.in/) in Summer 2018. During my undergraduate years, I was advised by [Dr. B. K. Tripathy](https://www.researchgate.net/profile/BK_Tripathy). I've also interned with the research team at Cisco Systems Inc during Summer 2017.
 
-I am presently working at the [Image and Vision Processing Lab](http://ivpl.eecs.northwestern.edu/) at Northwestern. My current work is within developing a better understanding of conditional generative networks using latent space optimization techniques.
+I am presently working at the [Image and Vision Processing Lab](http://ivpl.eecs.northwestern.edu/) at Northwestern. My current work is within optimization aspects of conditional generative networks for the task of controlled image synthesis. 

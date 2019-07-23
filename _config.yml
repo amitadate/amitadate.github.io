@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Graduate Student"
+  name             :
   avatar           : "profile.png"
-  bio              : "Budding Researcher in Machine Learning"
+  bio              : "Budding Researcher in in Computer Vision / Deep Learning"
   location         : "Evanston, IL"
   employer         :
   pubmed           :

@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Academics"
+title: ""
 author_profile: true
 redirect_from:
   - /md/
@@ -52,9 +52,9 @@ Single line blockquote:
 
 # Selected Courses
 
-## Graduate Courses
 
-| Entry                                      | Item   |
+
+| Graduate Courses                                    
 | --------                                   | ------ |
 | Deep Reinforcement Learning from Scratch   | 2016   |
 | Statistics for Life Sciences               | 2019   |

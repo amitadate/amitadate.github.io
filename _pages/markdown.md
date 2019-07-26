@@ -1,12 +1,12 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "Academics"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /md/
   - /markdown.html
 ---
-
+<!--
 ## Locations of key files/directories
 
 * Basic config options: _config.yml
@@ -25,7 +25,7 @@ redirect_from:
 ## Tips and hints
 
 * Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
+* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll.
   * Green check: successful build
   * Orange circle: building
   * Red X: error
@@ -48,19 +48,28 @@ redirect_from:
 
 Single line blockquote:
 
-> Quotes are cool.
+> Quotes are cool. -->
 
-## Tables
+# Selected Courses
 
-### Table 1
+## Graduate Courses
 
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+| Entry                                      | Item   |
+| --------                                   | ------ |
+| Deep Reinforcement Learning from Scratch   | 2016   |
+| Statistics for Life Sciences               | 2019   |
+| Seminar In Statistical Language Modelling                             | 2022   |
+| Practicum in Intelligent Information Systems                              | 2016   |
+| Deep Learning Foundations from Scratch                              | 2019   |
+| Natural Language Processing                               | 2022   |
+| Knowledge Representation and Reasoning                             | 2016   |
+| Intro to Artificial Intelligence           | 2019   |
+| Frameworks for Artificial Intelligence     | 2022   |
+| Data Science Seminar                       | 2016   |
+| Machine Learning                           | 2019   |
 
-### Table 2
+
+## Undergraduate Courses
 
 | Header1 | Header2 | Header3 |
 |:--------|:-------:|--------:|
@@ -88,8 +97,8 @@ Do It Live
 
 ## Unordered Lists (Nested)
 
-  * List item one 
-      * List item one 
+  * List item one
+      * List item one
           * List item one
           * List item two
           * List item three
@@ -103,8 +112,8 @@ Do It Live
 
 ## Ordered List (Nested)
 
-  1. List item one 
-      1. List item one 
+  1. List item one
+      1. List item one
           1. List item one
           2. List item two
           3. List item three

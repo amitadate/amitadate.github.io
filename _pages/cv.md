@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /talks/2012-03-01-talk-1
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume

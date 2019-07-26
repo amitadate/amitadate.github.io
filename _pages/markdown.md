@@ -50,7 +50,6 @@ Single line blockquote:
 
 > Quotes are cool. -->
 
-# Selected Courses
 
 
 

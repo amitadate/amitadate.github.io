@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: "https://amitadate.github.io/files/Amit_Adate_CV_2019-July.pdf"
 author_profile: true
 redirect_from:
   - /resume
@@ -12,7 +12,7 @@ redirect_from:
 
 Education
 ======
-* Bachelors - GG 
+* Bachelors - GG
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 

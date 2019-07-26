@@ -55,157 +55,44 @@ Single line blockquote:
 
 
 | Graduate Courses                                    
-| --------                                   | ------ |
-| Deep Reinforcement Learning from Scratch   | 2016   |
-| Statistics for Life Sciences               | 2019   |
-| Seminar In Statistical Language Modelling                             | 2022   |
-| Practicum in Intelligent Information Systems                              | 2016   |
-| Deep Learning Foundations from Scratch                              | 2019   |
-| Natural Language Processing                               | 2022   |
-| Knowledge Representation and Reasoning                             | 2016   |
-| Intro to Artificial Intelligence           | 2019   |
-| Frameworks for Artificial Intelligence     | 2022   |
-| Data Science Seminar                       | 2016   |
-| Machine Learning                           | 2019   |
+| --------                                   |
+| Deep Reinforcement Learning from Scratch   |
+| Statistics for Life Sciences               |
+| Seminar In Statistical Language Modelling                             |
+| Practicum in Intelligent Information Systems                              |
+| Deep Learning Foundations from Scratch                              |
+| Natural Language Processing                               |
+| Knowledge Representation and Reasoning                             |
+| Intro to Artificial Intelligence           |
+| Frameworks for Artificial Intelligence     |
+| Data Science Seminar                       |
+| Machine Learning                           |
 
 
-## Undergraduate Courses
+| Undergraduate Courses                                    
+| --------                                   |
+| Soft Computing   |
+| Image and Vision Computing               |
+| Data Structures                             |
+| Discrete Mathematical Structures                             |
+| Linear Algebra                             |
+| Statistics and Reliability                              |
+| Graph Theory                             |
 
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
 
-## Definition Lists
-
-Definition List Title
-:   Definition list division.
-
-Startup
-:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
-
-#dowork
-:   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
-
-Do It Live
-:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
-
-## Unordered Lists (Nested)
-
-  * List item one
-      * List item one
-          * List item one
-          * List item two
-          * List item three
-          * List item four
-      * List item two
-      * List item three
-      * List item four
-  * List item two
-  * List item three
-  * List item four
-
-## Ordered List (Nested)
-
-  1. List item one
-      1. List item one
-          1. List item one
-          2. List item two
-          3. List item three
-          4. List item four
-      2. List item two
-      3. List item three
-      4. List item four
-  2. List item two
-  3. List item three
-  4. List item four
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-## Notices
-
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}
-
-## HTML Tags
-
-### Address Tag
-
-<address>
-  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
-</address>
-
-### Anchor Tag (aka. Link)
-
-This is an example of a [link](http://github.com "Github").
-
-### Abbreviation Tag
-
-The abbreviation CSS stands for "Cascading Style Sheets".
-
-*[CSS]: Cascading Style Sheets
-
-### Cite Tag
-
-"Code is poetry." ---<cite>Automattic</cite>
-
-### Code Tag
-
-You will learn later on in these tests that `word-wrap: break-word;` will be your best friend.
-
-### Strike Tag
-
-This tag will let you <strike>strikeout text</strike>.
-
-### Emphasize Tag
-
-The emphasize tag should _italicize_ text.
-
-### Insert Tag
-
-This tag should denote <ins>inserted</ins> text.
-
-### Keyboard Tag
-
-This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the `<code>` tag.
-
-### Preformatted Tag
-
-This tag styles large blocks of code.
-
-<pre>
-.post-title {
-  margin: 0 0 5px;
-  font-weight: bold;
-  font-size: 38px;
-  line-height: 1.2;
-  and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
-}
-</pre>
-
-### Quote Tag
-
-<q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer
-
-### Strong Tag
-
-This tag shows **bold text**.
-
-### Subscript Tag
-
-Getting our science styling on with H<sub>2</sub>O, which should push the "2" down.
-
-### Superscript Tag
-
-Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should lift the 2 up.
-
-### Variable Tag
-
-This allows you to denote <var>variables</var>.
+| External Courses                                    
+| --------                                   |
+| [Algorithmic Toolbox](https://www.coursera.org/account/accomplishments/certificate/BX52CTKEELAZ)  |
+| [Machine Learning](https://www.coursera.org/account/accomplishments/certificate/LWEYURMR5WMD)             |
+| [Neural Networks for Machine Learning](https://www.coursera.org/account/accomplishments/certificate/GNVZC7CXVJC7)                            |
+| [Deep Learning: Python](https://www.udemy.com/certificate/UC-3PT5VNYV/)                             |
+| [Deep Learning: RNN](https://www.udemy.com/certificate/UC-5OD3M55X/)                            |
+| [Deep Learning: NLP](https://www.udemy.com/certificate/UC-BHV2GJJA/)                             |
+| [Deep learning: CNN](https://www.udemy.com/certificate/UC-QHCNAZXI/)                          |
+| [Deep Learning: Hands-On ANN](https://www.udemy.com/certificate/UC-0TD2JOBU/)         |
+| [Deep Learning: GAN + Variational Autoencoders](https://www.udemy.com/certificate/UC-RWTSPY9A/)    |
+| [Artificial Intelligence: Reinforcement Learning](https://www.udemy.com/certificate/UC-GXOXTF7C/)               |
+| [Artificial Intelligence: Deep Reinforcement Learning](https://www.udemy.com/certificate/UC-LGWAQ01L/)                          |
+| [Artificial Intelligence: A to Z, Build an AI](https://www.udemy.com/certificate/UC-R14F7HTC/)                          |
+| [Data Structures and Algorithms Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/DZVS85M9QGZJ)                       |
+| [Deep Learning Nanodegree](https://in.udacity.com/course/deep-learning-nanodegree-foundation--nd101)                          |

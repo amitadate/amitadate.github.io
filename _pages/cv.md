@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Non-Research Interests"
-permalink: /fun/
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume

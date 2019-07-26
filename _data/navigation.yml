@@ -18,5 +18,5 @@ main:
   - title: "CV"
     url: /files/Amit_Adate_CV_2019-July.pdf
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/

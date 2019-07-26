@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: https://amitadate.github.io/files/Amit_Adate_CV_2019-July.pdf
+title: "fun"
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume

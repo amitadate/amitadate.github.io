@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "fun"
-permalink: /cv/
+permalink: /files/fun.md
 author_profile: true
 redirect_from:
   - /resume

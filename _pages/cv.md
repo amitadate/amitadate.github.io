@@ -28,8 +28,8 @@ I am a sucker for a good story. I have earnestly followed the ones within popula
 Few of my favorite stand alone titles are Don Quixote, The Old Man and the Sea, The Alchemist and The Fountainhead. I am also a follower of a select few manga series which have their anime counterparts, them being Naruto, Attack on Titan and One Punch Man.
 
 
-To know more about my interests or if you have a recommendation for me, reach out to me [here](https://twitter.com/amitadate). 
-
+To know more about my interests or if you have a recommendation for me, reach out to me [here](https://twitter.com/amitadate).
+======
 
 
 

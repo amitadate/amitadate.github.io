@@ -19,7 +19,7 @@ I am no longer an active player, I am an ardent follower of the sport.
 
 ## Screenwriting
 
-Since high school, I have been Screenwriting, I like to write Visually. Along the years i have come to the realization that the process of writing the experience that can be seen and heard on the screen leads to a latent understanding of the story itself. A screenwriter whom i admire is Aaron Sorkin, The West Wing is one of my favourite tv show of all time.
+Since high school, I have been Screenwriting, I like to write Visually. Along the years i have come to the realization that the process of writing the experience that can be seen and heard on the screen leads to a latent understanding of the story itself. A screenwriter whom i admire is Aaron Sorkin, The West Wing is one of my favorite tv show of all time.
 
 
 ## Reading

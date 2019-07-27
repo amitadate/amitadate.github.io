@@ -68,7 +68,7 @@ Single line blockquote:
 | Machine Learning                           |
 
 
-| Undergraduate Courses                                    
+| Undergraduate Courses (Selective)                                   
 | --------                                   |
 | Soft Computing   |
 | Image and Vision Computing               |

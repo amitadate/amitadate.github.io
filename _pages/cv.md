@@ -10,18 +10,18 @@ redirect_from:
 
 {% include base_path %}
 
-Esports
+## Esports
 ======
 During my undergrad, I spent an unholy amount of time and energy in understanding and getting better at one game, Counter Strike Global Offensive. I have attained the highest skill group in the game, The Global Elite - top 0.68 percentile globally. During my e-sport journey, the game taught me three key lessons, the intricacies involved in Teamwork, the cycle of Try, Fail, Learn, Repeat and the joy of Mastering a Craft.
 
 I am no longer an active player, I am an ardent follower of the sport.  
 
-Screenwriting
+## Screenwriting
 ======
 Since high school, I have been Screenwriting, I like to write Visually. Along the years i have come to the realization that the process of writing the experience that can be seen and heard on the screen leads to a latent understanding of the story itself. A screenwriter whom i admire is Aaron Sorkin.
 
 
-Reading
+## Reading
 ======
 I am a sucker for a good story. I have earnestly followed the ones within popular culture, a few of them being A Song of Ice and Fire by George R. R. Martin, Lord of the Rings by 	J. R. R. Tolkien, The Chronicles of Narnia by  C. S. Lewis, The Inheritance Cycle by Christopher Paolini and Harry Potter by J. K. Rowling.
 

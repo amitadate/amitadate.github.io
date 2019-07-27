@@ -8,7 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-## Esports
+## E-Sports
 
 I have spent an unholy amount of time and energy in understanding and getting better at one game, Counter Strike Global Offensive. I have attained the highest skill group in the game, The Global Elite - top 0.68 percentile globally. During my e-sport journey, the game taught me three key lessons, the intricacies involved in Teamwork, the cycle of Try, Fail, Learn, Repeat and the joy of Mastering a Craft.
 

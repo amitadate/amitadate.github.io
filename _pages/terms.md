@@ -6,10 +6,13 @@ title: "Research "
 
 {% include base_path %}
 
+I am primarily interested in deep learning with applications in computer vision.
 
-Note about research Interests
 
-# interest 1
+
+### S-LSTM-GAN: Shared recurrent neural networks with adversarial training
+
+####⋅⋅⋅ Presented at ICDECT-2017, Proceedings are published in Springer AISC (Advances in Intelligent Systems and Computing)
 # interest 2
 # interest 3
 

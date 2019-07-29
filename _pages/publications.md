@@ -16,13 +16,13 @@ author_profile: true
 {% endfor %} -->
 
 
-I am primarily interested in deep learning with applications in computer vision. 
+I am primarily interested in deep learning with applications in computer vision.
 
 Few topics which deeply intrigue me are weakly supervised learning, semantic image understanding, controlled image and video generation and few shot continual learning.
 
 Presently, I am advised by [Dr. Aggelos K. Katsaggelos](https://scholar.google.com/citations?user=aucB85kAAAAJ&hl=en). I am working on my Masters Thesis at [Image and Vision Processing Lab](http://ivpl.eecs.northwestern.edu/) at Northwestern University. My current work is within optimization aspects of conditional generative networks towards the task of controlled image synthesis.
 
-During my undergrad, I was advised by [Dr. B. K. Tripathy](https://scholar.google.co.in/citations?user=TuqZg_0AAAAJ&hl=en). My work mainly was focused on optimizing deep neural networks for generating end to end image analysis and visualization pipelines.
+During my undergrad, I was advised by [Dr. B. K. Tripathy](https://scholar.google.co.in/citations?user=TuqZg_0AAAAJ&hl=en). My work mainly was focused on optimizing deep neural networks for generating end-to-end image analysis and visualization pipelines.
 
 
 # Publications

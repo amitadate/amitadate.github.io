@@ -1,6 +1,6 @@
 ---
 permalink: /terms/
-title: "Research "
+title: "Projects"
 
 ---
 

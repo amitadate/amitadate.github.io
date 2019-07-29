@@ -27,8 +27,8 @@ List of my publications :
 # Publications
 
 
-* [S-LSTM-GAN: Shared Recurrent Neural Networks with Adversarial Training](https://link.springer.com/chapter/10.1007/978-981-13-1610-4_11)\s
-###  A Adate, BK Tripathy - International Conference on Data Engineering and Communication Technology, 2017
+* [S-LSTM-GAN: Shared Recurrent Neural Networks with Adversarial Training](https://link.springer.com/chapter/10.1007/978-981-13-1610-4_11).\s\s
+  A Adate, BK Tripathy - International Conference on Data Engineering and Communication Technology, 2017
 
 *
 

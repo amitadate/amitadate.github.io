@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Research"
 permalink: /publications/
 author_profile: true
 ---
@@ -23,3 +23,15 @@ Filler Pargraph
 Link to google scholar :
 
 List of my publications :
+
+# Publications
+
+
+* [S-LSTM-GAN: Shared Recurrent Neural Networks with Adversarial Training](https://link.springer.com/chapter/10.1007/978-981-13-1610-4_11)
+  * A Adate, BK Tripathy - International Conference on Data Engineering and Communication Technology, 2017
+
+*
+
+*
+
+*

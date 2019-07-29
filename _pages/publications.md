@@ -41,7 +41,7 @@ During my undergrad, I was advised by [Dr. B. K. Tripathy](https://scholar.googl
   A Adate, BK Tripathy - Soft Computing for Problem Solving, 2019
 
 * [Termite-Motivated Simulation of Cooperative Behavior](https://link.springer.com/chapter/10.1007/978-981-13-1921-1_21)  
-  A Adate, BK Tripathy - International Conference on Data Engineering and Communication Technology, 2017
+  D Chamania, A Adate, P Sultana - International Conference on Data Engineering and Communication Technology, 2017
 
 * [Deep Learning Techniques for Image Processing.](https://www.degruyter.com/view/books/9783110551433/9783110551433-003/9783110551433-003.xml)  
   A Adate, BK Tripathy - Frontiers In Computational Intelligence - De Gruyter Series, 2018

@@ -18,6 +18,8 @@ I am no longer an active player, I am an ardent follower of the sport.
 
 Since high school, I have been Screenwriting, I like to write Visually. Along the years i have come to the realization that the process of writing the experience that can be seen and heard on the screen leads to a latent understanding of the story itself. A screenwriter whom i admire is Aaron Sorkin, The West Wing is one of my favorite tv show of all time.
 
+During my free time, i like to watch movies and dissect them based on their screenplay. I am constantly in search for an immersive experience in the form of video content. 
+
 ## Reading
 
 I am a sucker for a good story. I have earnestly followed the ones within popular culture, a few of them being A Song of Ice and Fire by George R. R. Martin, Lord of the Rings by 	J. R. R. Tolkien, The Chronicles of Narnia by  C. S. Lewis, The Inheritance Cycle by Christopher Paolini and Harry Potter by J. K. Rowling.

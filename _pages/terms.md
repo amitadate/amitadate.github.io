@@ -6,7 +6,8 @@ title: "Projects"
 
 {% include base_path %}
 
-TRIAL GGG:
+# Graduate Course Projects:
 
+* Deep Reinforcement Learning Course Project  
 
-[![](https://img.youtube.com/vi/ZDhmcRvOvFQ/0.jpg)](https://www.youtube.com/watch?v=ZDhmcRvOvFQ)
+  bosdfhsbhsbsssn:  [![](https://img.youtube.com/vi/ZDhmcRvOvFQ/0.jpg)](https://www.youtube.com/watch?v=ZDhmcRvOvFQ)

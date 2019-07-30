@@ -10,4 +10,4 @@ title: "Projects"
 
 * Deep Reinforcement Learning Course Project  
 
-  bosdfhsbhsbsssn:  [![](https://img.youtube.com/vi/ZDhmcRvOvFQ/0.jpg)](https://www.youtube.com/watch?v=ZDhmcRvOvFQ)
+  bosdfhsbhsbsssn:  [![](https://img.youtube.com/vi/ZDhmcRvOvFQ/0.jpg "trial title" {width=100px height=100px})](https://www.youtube.com/watch?v=ZDhmcRvOvFQ)

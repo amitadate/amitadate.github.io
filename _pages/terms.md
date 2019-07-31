@@ -27,26 +27,31 @@ title: "Projects"
 
   Link : [repo](https://github.com/amitadate/GAN-2-Vec-Language-Modeling)
 
-* **Natural Language Processing Course Project**  
+* **Natural Language Processing Course Projects**
 
-  Filler Text
+  * **First Project**  
+    The first project aims to use NLP methods to identify the presenters, nominees, awards, winners and hosts for a given award ceremony. Overall goal of our project was generalizing the strategies so that they will be applicable to any other award ceremony besides the Golden Globes. Although this model is only trained or build on tweets for the Golden Globes we are sure that it will also perform good on other award ceremonies.
+
+
+  * **Second Project**
+    The second project aims to convert a recipe from AllRecipes.com into another recipe with a different style or cuisine. We parse the HTML code into an internal representation using semantic NLP techniques.
 
   Links : [repo1](https://github.com/amitadate/EECS-337-NLP-Project-01) [repo2](https://github.com/amitadate/EECS-337-NLP-Project-02)
 
 * **Google Analytics Revenue Prediction**  
 
-  Filler Text:
+  This project is our contribution to a live Kaggle competition by Google. Google gave the task to predict the total revenue generated per customer based on the customer dataset of a Google Analytics Merchandise Store. In short, we have tackled a regression task
 
   Link to project website : [webpage](https://no-free-lunch.weebly.com/)
 
 * **S-LSTM-GAN: Shared Recurrent Neural Networks with Adversarial Training**
 
-  Filler Text:
+  This is my Bachelors Project, We tried to create a novel framework in contribution towards creating a shared layer generative model. Recurrent Networks are used to work with continuous data sequences, our work was an attempt to use recurrent models and combine them with the generative modeling mechanisim with adversarial training to evaluate their receptive field towards the task of image generation.
 
   Link: [repo](https://github.com/amitadate/S-LSTM-GAN-MNIST)
 
 * **Experiments with Generative Adversarial Networks**
 
-  Filler Text:
+  Worked with Dr. B. K. Tripathy and his doctorate students on implementing deep neural networks in end to end pipelines for efficient image analysis and visualization. Experimented on the GAN framework to evaluate the performance of various image compression and image super-resolution techniques. We also worked with adversarial examples, specifically experimenting with generating noise that  affects single image classification.
 
-  Link: [repo]()
+  Link: [repo1](https://github.com/amitadate/gan-noise) [repo2](https://github.com/amitadate/gan-sr) [repo3](https://github.com/amitadate/gan-compression)

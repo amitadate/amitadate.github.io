@@ -4,7 +4,7 @@ title: "Projects"
 
 ---
 
-{% include base_path %}
+Selected {% include base_path %}
 
 * **Activation Maximization for Visualization of Feature Evolution on Conditional Generative Adversarial Networks.**
 
@@ -25,16 +25,28 @@ title: "Projects"
 
   The course led me to read and summarize 40 selective papers that are popular contributed to Statistical language modeling. As the course project for this course i read and analyzed text to speech model and built one from Scratch. This course also gave me a better understanding of the attention mechanism and the behind the scenes workings of transformers.
 
-  Link :
+  Link : [repo](https://github.com/amitadate/GAN-2-Vec-Language-Modeling)
 
 * **Natural Language Processing Course Project**  
 
-  Filler Text:
+  Filler Text
 
-* Machine Learning Course Project  
+  Links : [repo1](https://github.com/amitadate/EECS-337-NLP-Project-01) [repo2](https://github.com/amitadate/EECS-337-NLP-Project-02)
 
-  Filler Text:
-
-* Data Science Seminar Course Project  
+* **Machine Learning Course Project**  
 
   Filler Text:
+
+  Link to project website : [webpage](https://no-free-lunch.weebly.com/)
+
+* **S-LSTM-GAN: Shared Recurrent Neural Networks with Adversarial Training**
+
+  Filler Text:
+
+  Link: [repo](https://github.com/amitadate/S-LSTM-GAN-MNIST)
+
+* **Experiments with Generative Adversarial Networks**
+
+  Filler Text:
+
+  Link: [repo]()

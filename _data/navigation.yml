@@ -4,13 +4,13 @@ main:
     url: /publications/
 
   - title: "Academics"
-    url: /markdown/
+    url: /academics/
 
   - title: "Projects"
     url: /projects/
 
   - title: "Fun"
-    url: /cv/
+    url: /fun/
 
   - title: "CV"
     url: /files/CV_Amit_Adate.pdf

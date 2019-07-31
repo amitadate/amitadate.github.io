@@ -1,5 +1,5 @@
 ---
-permalink: /fun/
+permalink: /projects/
 title: "Projects"
 
 ---

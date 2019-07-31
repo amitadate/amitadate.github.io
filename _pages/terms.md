@@ -6,10 +6,6 @@ title: "Projects"
 
 {% include base_path %}
 
-Filler Paragraph
-
-# Projects:
-
 * **Activation Maximization for Visualization of Feature Evolution on Conditional Generative Adversarial Networks.**
 
   Project undertaken as a course project for Deep Learning Foundations from Scratch. As the project has evolved into my masters thesis, the code is private and to be released soon.
@@ -29,7 +25,7 @@ Filler Paragraph
 
   The course led me to read and summarize 40 selective papers that are popular contributed to Statistical language modeling. As the course project for this course i read and analyzed text to speech model and built one from Scratch. This course also gave me a better understanding of the attention mechanism and the behind the scenes workings of transformers.
 
-  Link : 
+  Link :
 
 * **Natural Language Processing Course Project**  
 

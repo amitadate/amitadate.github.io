@@ -4,7 +4,7 @@ title: "Projects"
 
 ---
 
-Selected {% include base_path %}
+{% include base_path %}
 
 * **Activation Maximization for Visualization of Feature Evolution on Conditional Generative Adversarial Networks.**
 
@@ -33,7 +33,7 @@ Selected {% include base_path %}
 
   Links : [repo1](https://github.com/amitadate/EECS-337-NLP-Project-01) [repo2](https://github.com/amitadate/EECS-337-NLP-Project-02)
 
-* **Machine Learning Course Project**  
+* **Google Analytics Revenue Prediction**  
 
   Filler Text:
 

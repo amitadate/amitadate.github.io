@@ -1,5 +1,5 @@
 ---
-permalink: /terms/
+permalink: /fun/
 title: "Projects"
 
 ---

@@ -44,4 +44,4 @@ During my undergrad, I was advised by [Dr. B. K. Tripathy](https://scholar.googl
   D Chamania, **A Adate**, P Sultana - International Conference on Data Engineering and Communication Technology, 2017
 
 * [Deep Learning Techniques for Image Processing.](https://www.degruyter.com/view/books/9783110551433/9783110551433-003/9783110551433-003.xml)  
-  A Adate, BK Tripathy - Frontiers In Computational Intelligence - De Gruyter Series, 2018
+  **A Adate**, BK Tripathy - Frontiers In Computational Intelligence - De Gruyter Series, 2018

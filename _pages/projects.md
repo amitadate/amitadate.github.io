@@ -33,7 +33,7 @@ title: "Projects"
     The first project aims to use NLP methods to identify the presenters, nominees, awards, winners and hosts for a given award ceremony. Overall goal of our project was generalizing the strategies so that they will be applicable to any other award ceremony besides the Golden Globes. Although this model is only trained or build on tweets for the Golden Globes we are sure that it will also perform good on other award ceremonies.
 
 
-  * **Second Project**
+  * **Second Project**  
     The second project aims to convert a recipe from AllRecipes.com into another recipe with a different style or cuisine. We parse the HTML code into an internal representation using semantic NLP techniques.
 
   Links : [repo1](https://github.com/amitadate/EECS-337-NLP-Project-01) [repo2](https://github.com/amitadate/EECS-337-NLP-Project-02)

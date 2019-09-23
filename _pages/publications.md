@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %} -->
 
 
-I am primarily interested in deep learning with applications in computer vision and robotics. 
+I am primarily interested in deep learning with applications in computer vision.
 
 Few topics which deeply intrigue me are semi-supervised learning, semantic image understanding, controlled image and video generation, few shot continual learning and multi-model based ensemble learning.  
 

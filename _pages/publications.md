@@ -18,7 +18,7 @@ author_profile: true
 
 I am primarily interested in deep learning with applications in computer vision.
 
-Few topics which deeply intrigue me are semi-supervised learning, semantic image understanding, controlled image and video generation, few shot continual learning and multi-model based ensemble learning.  
+Few topics which deeply intrigue me are semi-supervised learning, semantic image understanding, controlled image and video generation, few shot continual learning, multi-model based ensemble learning, domain adaptation and transfer learning.  
 
 Presently, I am advised by [Dr. Aggelos K. Katsaggelos](https://scholar.google.com/citations?user=aucB85kAAAAJ&hl=en). I am working on my Masters Thesis at [Image and Video Processing Lab](http://ivpl.eecs.northwestern.edu/) at Northwestern University. My current work is within optimization aspects of conditional generative networks towards the task of controlled image synthesis.
 

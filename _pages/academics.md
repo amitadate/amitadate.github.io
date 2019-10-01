@@ -55,6 +55,8 @@ Single line blockquote:
 
 | Graduate Courses                                    
 | --------                                   |
+| Introduction to Computer Vision   |
+| Introduction to Computational Phootography   |
 | Deep Reinforcement Learning from Scratch   |
 | Statistics for Life Sciences               |
 | Seminar In Statistical Language Modelling                             |

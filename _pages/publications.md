@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-My primary interest lies at the intersection of computer vision,deep learning, machine learning and optimization.
+My primary interest lies at the intersection of computer vision, deep learning, machine learning and optimization.
 
 Few topics which deeply intrigue me are semi-supervised learning, semantic image understanding, controlled image and video generation, few shot continual learning, multi-model based ensemble learning, domain adaptation and transfer learning.  
 

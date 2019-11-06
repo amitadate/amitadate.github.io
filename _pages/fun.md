@@ -14,7 +14,7 @@ I have spent an unholy amount of time and energy in understanding and getting be
 
 I am no longer an active player, I am an ardent follower of the sport. Linked below are few of my gaming highlights. 
 
-  <a href="https://www.youtube.com/watch?v=yumAW2MyHeQ"><img src="https://img.youtube.com/vi/yumAW2MyHeQ/0.jpg" width="150" height="100" /></a> <a href="https://www.youtube.com/watch?v=Xg2Xk49z41Y"><img src="https://img.youtube.com/vi/Xg2Xk49z41Y/0.jpg" width="150" height="100" /></a> <a href="https://www.youtube.com/watch?v=M4bzfA51izE"><img src="https://img.youtube.com/vi/M4bzfA51izE/0.jpg" width="150" height="100" /></a> <a href="https://www.youtube.com/watch?v=QqWY1YEXSc4"><img src="https://img.youtube.com/vi/QqWY1YEXSc4/0.jpg" width="150" height="100" /></a>
+  <a href="https://www.youtube.com/watch?v=yumAW2MyHeQ"><img src="https://img.youtube.com/vi/yumAW2MyHeQ/0.jpg" width="150" height="100" /></a> <a href="https://www.youtube.com/watch?v=Xg2Xk49z41Y"><img src="https://img.youtube.com/vi/Xg2Xk49z41Y/0.jpg" width="150" height="100" /></a> <a href="https://www.youtube.com/watch?v=M4bzfA51izE"><img src="https://img.youtube.com/vi/M4bzfA51izE/0.jpg" width="150" height="100" /></a> <a href="https://www.youtube.com/watch?v=QqWY1YEXSc4"><img src="https://img.youtube.com/vi/QqWY1YEXSc4/0.jpg" width="150" height="100" /></a> <a href="https://www.youtube.com/watch?v=LZhLCbvqT-c"><img src="https://img.youtube.com/vi/LZhLCbvqT-c/0.jpg" width="150" height="100" /></a> <a href="https://www.youtube.com/watch?v=4RDK-UxwpYY"><img src="https://img.youtube.com/vi/4RDK-UxwpYY/0.jpg" width="150" height="100" /></a>
   
 
 ## Screenwriting

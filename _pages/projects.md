@@ -23,7 +23,7 @@ title: "Projects"
 
 * **Seminar In Statistical Language Modeling Course Project**  
 
-  The course led me to read and summarize 40 selective papers that are popular contributed to Statistical language modeling. As the course project for this course i read and analyzed text to speech model and built one from Scratch. This course also gave me a better understanding of the attention mechanism and the behind the scenes workings of transformers.
+  The course led me to read and summarize 40 selective papers that are popular contributed to Statistical language modeling. As the course project for this course i read and analyzed text to image model and built one from Scratch. This course also gave me a better understanding of the attention mechanism and the behind the scenes workings of transformers.
 
   Link : [repo](https://github.com/amitadate/GAN-2-Vec-Language-Modeling)
 

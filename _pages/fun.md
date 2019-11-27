@@ -27,7 +27,7 @@ Since high school, I have been Screenwriting, I like to write Visually. Along th
 
 I am a sucker for a good story. I have earnestly followed the ones within popular culture, a few of them being A Song of Ice and Fire by George R. R. Martin, Lord of the Rings by 	J. R. R. Tolkien, The Chronicles of Narnia by  C. S. Lewis, The Inheritance Cycle by Christopher Paolini and Harry Potter by J. K. Rowling.
 
-Few of my favorite stand alone titles are Don Quixote, The Old Man and the Sea, The Alchemist and The Fountainhead. I am also a follower of a select few manga series which have their anime counterparts, them being Naruto, Attack on Titan and One Punch Man.
+Few of my favorite stand alone titles are Don Quixote, The Old Man and the Sea, and The Alchemist. I am also a follower of a select few manga series which have their anime counterparts, them being Naruto, Attack on Titan and One Punch Man.
 
 ## To know more about my interests or if you have a recommendation for me, reach out to me [here](https://twitter.com/amitadate).
 
@@ -35,49 +35,3 @@ Few of my favorite stand alone titles are Don Quixote, The Old Man and the Sea, 
 
 
 
-<!-- * Bachelors - GG
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Service and leadership
-======
-* Currently signed in to 43 different slack teams -->

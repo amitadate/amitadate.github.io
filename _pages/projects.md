@@ -6,6 +6,12 @@ title: "Projects"
 
 {% include base_path %}
 
+* **Pose Estimation and Tracking.**
+
+  Project undertaken as a course project for Introduction to Computer Vision. This project involves the integrate template based image tracking with deep learning based pose estimation. The goal of this project is to understand current pose estimation methods and compare them with the traditional template based approaches. Also, in our  project we focused on Quality over Performance. Current state of the art approaches are very exceptional in performance but not entirely exceptional in quality. We presented an emsemble approach of deep learning based tracking and template based tracking. 
+  
+  Link for the Project Video :  <a href="https://www.youtube.com/watch?v=ruem6nZP1Xs"><img src="https://img.youtube.com/vi/ruem6nZP1Xs/0.jpg" width="150" height="100" /></a>
+
 * **Activation Maximization for Visualization of Feature Evolution on Conditional Generative Adversarial Networks.**
 
   Project undertaken as a course project for Deep Learning Foundations from Scratch. As the project has evolved into my masters thesis, the code is private and to be released soon.

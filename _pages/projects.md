@@ -8,7 +8,7 @@ title: "Projects"
 
 * **Pose Estimation and Tracking.**
 
-  Project undertaken as a course project for Introduction to Computer Vision. This project involves the integrate template based image tracking with deep learning based pose estimation. The goal of this project is to understand current pose estimation methods and compare them with the traditional template based approaches. Also, in our  project we focused on Quality over Performance. Current state of the art approaches are very exceptional in performance but not entirely exceptional in quality. We presented an emsemble approach of deep learning based tracking and template based tracking. 
+  Project undertaken as a course project for Introduction to Computer Vision. The goal of this project is to understand current pose estimation methods and compare them with the traditional template based approaches. Also, in our  project we focused on Quality over Performance. Current state of the art approaches are very exceptional in performance but not entirely exceptional in quality. We presented an ensemble approach of integrating template based image tracking with deep learning based pose estimation. 
   
   Link for the Project Video :  <a href="https://www.youtube.com/watch?v=ruem6nZP1Xs"><img src="https://img.youtube.com/vi/ruem6nZP1Xs/0.jpg" width="150" height="100" /></a>
 

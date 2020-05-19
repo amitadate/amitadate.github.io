@@ -9,8 +9,8 @@ main:
   - title: "Projects"
     url: /projects/
 
-  - title: "Fun"
-    url: /fun/
+#  - title: "Fun"
+#    url: /fun/
 
   - title: "CV"
     url: /files/CV_Amit_Adate.pdf

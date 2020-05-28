@@ -17,4 +17,4 @@ I am presently working at the [Image and Video Processing Lab](https://ivpl.nort
 
 To view my university profile page, visit [here](https://www.mccormick.northwestern.edu/artificial-intelligence/meet-our-students/2018-19/amit-adate.html).
 
-To view non-research stuff that i am interested in, visit [here](/fun/).
+

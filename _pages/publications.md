@@ -15,7 +15,7 @@ I am advised by [Dr. Aggelos K. Katsaggelos](https://www.mccormick.northwestern.
 
 # Publications
 
-You can find my complete publication list on [Google Scholar](https://scholar.google.com/citations?user=uw-7_dAAAAAJ) (177 citations).
+You can find my complete publication list on [Google Scholar](https://scholar.google.com/citations?user=uw-7_dAAAAAJ).
 
 ## Graduate Research
 

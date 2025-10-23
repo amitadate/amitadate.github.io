@@ -53,6 +53,17 @@ Single line blockquote:
 
 
 
+| Notable Graduate Coursework                                    
+| --------                                   |
+| Deep Learning: Foundations, Applications, and Algorithms   |
+| Advanced Computer Vision   |
+| Advanced Computer Architecture   |
+| Massively Parallel Programming with CUDA   |
+| Statistical Machine Learning   |
+| Computational Photography   |
+| Integer Programming   |
+
+
 | Graduate Courses                                    
 | --------                                   |
 | Introduction to Computer Vision   |
@@ -61,7 +72,6 @@ Single line blockquote:
 | Statistics for Life Sciences               |
 | Seminar In Statistical Language Modelling                             |
 | Practicum in Intelligent Information Systems                              |
-| Deep Learning Foundations from Scratch                              |
 | Natural Language Processing                               |
 | Knowledge Representation and Reasoning                             |
 | Intro to Artificial Intelligence           |

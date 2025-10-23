@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior PhD candidate in Electrical and Computer Engineering at Northwestern University, advised by [Dr. Aggelos K. Katsaggelos](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/katsaggelos-aggelos.html). My research focuses on **Medical Imaging and Deep Learning**, with emphasis on computer vision for healthcare applications.
+I am a PhD candidate in Computer Engineering at Northwestern University, advised by [Dr. Aggelos K. Katsaggelos](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/katsaggelos-aggelos.html). My research focuses on **Medical Imaging and Deep Learning**, with emphasis on computer vision for healthcare applications.
 
 I work at the [Image and Video Processing Lab (IVPL)](https://sites.northwestern.edu/ivpl/), developing for medical image analysis and activity recognition. Prior to that, I completed my MS in Artificial Intelligence from Northwestern (2019) and BS in Computer Science from Vellore Institute of Technology (2018), advised by [Dr. B. K. Tripathy](http://www.bktripathy.co.in/).
 

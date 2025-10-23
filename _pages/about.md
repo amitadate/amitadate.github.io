@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student at Northwestern University pursuing Ph.D. in Electrical Engineering. I am fortunate to be advised by [Dr. Aggelos K. Katsaggelos](https://scholar.google.com/citations?user=aucB85kAAAAJ&hl=en). My research interests lies at the intersection of computer vision, deep learning, machine learning and optimization.
+I am a senior PhD candidate in Electrical and Computer Engineering at Northwestern University, advised by [Dr. Aggelos K. Katsaggelos](https://scholar.google.com/citations?user=aucB85kAAAAJ&hl=en). My research focuses on deep learning for computer vision, medical imaging, and privacy-preserving wearable computing.
 
-I graduated from the [Master of Science in Artificial Intelligence](https://www.mccormick.northwestern.edu/artificial-intelligence/meet-our-students/2018-19/amit-adate.html) program at Northwestern University in Dec 2019. Prior to that, I completed my undergraduate degree in Computer Science from [Vellore Institute of Technology](https://www.vit.ac.in/) in May 2018. During my undergraduate years, I was advised by [Dr. B. K. Tripathy](http://www.bktripathy.co.in/). I've also interned with the research team at Cisco Systems Inc. during Summer 2017.
+I work at the [Image and Video Processing Lab (IVPL)](https://ivpl.northwestern.edu/) at Northwestern University. My research bridges theoretical advances in neural architectures with practical healthcare applications, including egocentric vision systems and medical image analysis.
 
-I am presently working at the [Image and Video Processing Lab](https://ivpl.northwestern.edu/) at Northwestern University.
+Previously, I completed my MS in Artificial Intelligence (2019) and BS in Computer Science from Vellore Institute of Technology (2018), advised by [Dr. B. K. Tripathy](http://www.bktripathy.co.in/).
 
-
+**[Download CV](files/Amit_Adate_CV.docx)**
 
 
 

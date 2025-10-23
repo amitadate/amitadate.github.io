@@ -7,11 +7,9 @@ author_profile: true
 
 My research focuses on **Medical Imaging and Deep Learning**, with particular interest in:
 
-- Deep generative models and conditional image synthesis
-- Privacy-preserving wearable computing and egocentric vision
 - Medical image analysis and segmentation
 - Semi-supervised learning and domain adaptation
-- Few-shot continual learning and transfer learning
+- Representation learning and transfer learning
 
 I am advised by [Dr. Aggelos K. Katsaggelos](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/katsaggelos-aggelos.html), working on optimization aspects of neural architectures for healthcare applications.
 

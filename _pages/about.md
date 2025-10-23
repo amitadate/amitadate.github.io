@@ -12,4 +12,4 @@ I am a senior PhD candidate in Electrical and Computer Engineering at Northweste
 
 I work at the [Image and Video Processing Lab (IVPL)](https://sites.northwestern.edu/ivpl/), developing for medical image analysis and activity recognition. Prior to that, I completed my MS in Artificial Intelligence from Northwestern (2019) and BS in Computer Science from Vellore Institute of Technology (2018), advised by [Dr. B. K. Tripathy](http://www.bktripathy.co.in/).
 
-**[Download CV](files/Amit_Adate_CV.docx)** | **[Google Scholar](https://scholar.google.com/citations?user=uw-7_dAAAAAJ)**
+

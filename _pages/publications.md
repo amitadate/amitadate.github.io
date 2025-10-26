@@ -8,8 +8,8 @@ author_profile: true
 My research focuses on **Medical Imaging and Deep Learning**, with particular interest in:
 
 - Medical image analysis and segmentation
-- Semi-supervised learning and domain adaptation
-- Representation learning and transfer learning
+- Semi-supervised learning 
+- Representation learning 
 
 I am advised by [Dr. Aggelos K. Katsaggelos](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/katsaggelos-aggelos.html), working on optimization aspects of neural architectures for healthcare applications.
 
